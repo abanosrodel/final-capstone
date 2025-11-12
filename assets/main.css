@@ -1,0 +1,10 @@
+
+@import "tailwindcss";
+
+body {
+    font-family: 'Poppins', sans-serif;
+  }
+
+  .stroke-text {
+  -webkit-text-stroke: 1px black;
+}
